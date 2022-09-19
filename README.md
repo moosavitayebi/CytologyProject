@@ -5,3 +5,7 @@ Bone marrow cytology is required to make a hematological diagnosis, influencing 
 Link to the paper: https://www.nature.com/articles/s43856-022-00107-6
 
 Link to the full implementation and network weights: https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/
+
+
+![image](https://user-images.githubusercontent.com/36484259/191070505-282c9b0a-43b7-4b65-ab69-794a1eb74d4e.png)
+![image](https://user-images.githubusercontent.com/36484259/191070553-b6247ae8-3136-4aa8-90ae-528ade9c1c7d.png)
