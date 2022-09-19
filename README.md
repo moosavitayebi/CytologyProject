@@ -7,18 +7,14 @@ Link to the paper: https://www.nature.com/articles/s43856-022-00107-6
 Link to the full implementation and network weights: https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/
 
 
+End-to-end AI architecture for bone marrow aspirate cytology:
 ![image](https://user-images.githubusercontent.com/36484259/191070810-e357ccd2-b80b-4392-b083-13b2b5fc88c6.png)
 
-https://www.nature.com/articles/s43856-022-00107-6/figures/1
+Applying the region of interest (ROI) detection model:
+![image](https://user-images.githubusercontent.com/36484259/191071324-ccb438a1-f212-4f47-841c-15745c5b4b7f.png)
 
-https://www.nature.com/articles/s43856-022-00107-6/figures/2
+Applying the YOLO model to localize objects in selected region of interest (ROI) tiles.
+![image](https://user-images.githubusercontent.com/36484259/191071382-e71b5483-b37c-4c6e-a9b3-ca8f0d3f9f80.png)
 
-https://www.nature.com/articles/s43856-022-00107-6/figures/3
-
-https://www.nature.com/articles/s43856-022-00107-6/figures/5
-
-
-![image](https://user-images.githubusercontent.com/36484259/191070646-c992fcb0-b2c0-44e6-9440-105d19a54277.png)
-
-![image](https://user-images.githubusercontent.com/36484259/191070505-282c9b0a-43b7-4b65-ab69-794a1eb74d4e.png)
-![image](https://user-images.githubusercontent.com/36484259/191070553-b6247ae8-3136-4aa8-90ae-528ade9c1c7d.png)
+Generating the Histogram of Cell Types (HCT) and converged Integrated Histogram of Cell Types:
+![image](https://user-images.githubusercontent.com/36484259/191071496-e8354b27-6967-4fc5-b80d-e5a73666917d.png)
