@@ -6,6 +6,9 @@ Link to the paper: https://www.nature.com/articles/s43856-022-00107-6
 
 Link to the full implementation and network weights: https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/
 
+@settings {
+  font-size: 100;
+}
 
 End-to-end AI architecture for bone marrow aspirate cytology:
 
