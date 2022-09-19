@@ -8,13 +8,17 @@ Link to the full implementation and network weights: https://kimialab.uwaterloo.
 
 
 End-to-end AI architecture for bone marrow aspirate cytology:
+
 ![image](https://user-images.githubusercontent.com/36484259/191070810-e357ccd2-b80b-4392-b083-13b2b5fc88c6.png)
 
 Applying the region of interest (ROI) detection model:
+
 ![image](https://user-images.githubusercontent.com/36484259/191071324-ccb438a1-f212-4f47-841c-15745c5b4b7f.png)
 
-Applying the YOLO model to localize objects in selected region of interest (ROI) tiles.
+Applying the YOLO model to localize objects in selected region of interest (ROI) tiles:
+
 ![image](https://user-images.githubusercontent.com/36484259/191071382-e71b5483-b37c-4c6e-a9b3-ca8f0d3f9f80.png)
 
 Generating the Histogram of Cell Types (HCT) and converged Integrated Histogram of Cell Types:
+
 ![image](https://user-images.githubusercontent.com/36484259/191071496-e8354b27-6967-4fc5-b80d-e5a73666917d.png)
